@@ -1,0 +1,4 @@
+Galina;         Restore lost code;         Restore existing task.txt; 2024-01-21; 2024-01-18; No
+admin;         Write functions;         Write functions to optimize the code; 2024-01-18; 2024-01-18; Yes
+admin;         Write tasks to the tasks.txt;         Create a function for writing edited tasks to the file; 2024-01-20; 2024-01-20; Yes
+Galina;      Generate reports;      Create a function that generates reports; 2024-01-20; 2024-01-17; No

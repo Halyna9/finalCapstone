@@ -1,0 +1,3 @@
+admin;password
+Galina;Anubis
+John;Password

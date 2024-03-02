@@ -1,0 +1,20 @@
+User overview:
+            1. Total number of users: 3
+            2. Total number of tasks: 4    
+                
+                admin:
+            - Total number of tasks: 2
+            - Percentage of the total number of tasks: 50.00%
+            - Completed tasks: 1 (50.00%)
+            - Unfinished tasks: 1 (50.00%)
+            - Overdue unfinished tasks: 1 (50.00%)
+    
+                Galina:
+            - Total number of tasks: 2
+            - Percentage of the total number of tasks: 50.00%
+            - Completed tasks: 0 (0.00%)
+            - Unfinished tasks: 2 (100.00%)
+            - Overdue unfinished tasks: 2 (100.00%)
+
+                John:
+            - Total number of tasks: 0
